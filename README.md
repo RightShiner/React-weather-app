@@ -1,2 +1,2 @@
 ## About Weather-App
-<img src="https://i.postimg.cc/pTSDpQWp/Screenshot-2023-01-18-224219.jpg"/>
+<img src="https://i.postimg.cc/fyGWtySc/Screenshot-2023-01-18-224404.jpg" />
